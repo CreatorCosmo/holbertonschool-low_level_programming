@@ -2,7 +2,10 @@
 
 /**
  * main - Entry Point
- * Description - 'printing a specified message
+ *
+ * Description - 'printing a specified message'
+ *
+ * Return: Always 0 (Sucess)
  */
 
 int main(void)
