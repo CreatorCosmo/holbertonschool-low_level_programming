@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - printing a specified message
+ * main - Entry Point
+ * Description - 'printing a specified message
  */
 
 int main(void)
