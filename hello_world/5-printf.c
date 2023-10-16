@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * PrintMessage - Entry point
+ * void PrintMessage - Entry point
  *
  * Description 'printing a specific message with printf'
  *
