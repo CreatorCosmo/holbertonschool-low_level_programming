@@ -1,17 +1,15 @@
+#include <stdio.h>
+
 int main(void)
 {
+    char alphabet;
 
-/* 
-* Declare a variable and initialize with the first letter in the range a - z
-*/
+    for (alphabet = 'a'; alphabet <= 'z' ; alphabet++)
+    {
+        putchar(alphabet);
 
-char alphabet = 'a';
+    }
 
-while (alphabet <= 'z')
-
-putchar(alphabet);
-
-alphabet++;
+    putchar('\n');
+    return (0);
 }
-putchar('\n');
-return (0);
