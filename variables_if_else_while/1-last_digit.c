@@ -15,7 +15,7 @@ int main(void)
 
 /* Displaying output */
 
-printf("Last digit of %d is: %d", n, last_digit);
+printf("Last digit of %d is %d", n, last_digit);
 
 /* if statements */
 
