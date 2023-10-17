@@ -2,11 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
-/** 
+/**
 *main - Entry point
 *
-*Description: 'if statements that will print if the result is positive, zero or negtive'
+*Description: 'print if the result is positive, zero or negtive'
 *
+*Return: Always 0 (Sucess)
 */
 
 int main(void)
