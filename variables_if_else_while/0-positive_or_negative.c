@@ -2,8 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 
+/** 
+main - Entry point
 
-/* main - Entry point */
+Description: 'if statements that will print if the random number is positive, zero or negtive'
+
+*/
+
 int main(void)
 {
 	int n;
