@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main - Entry point
+/*
+*main - Entry point
 *Description: 'prints the last digit with extra specifications'
-Return: Always (0) */
+*Return: Always (0) 
+*/
 
 int main(void)
 {
