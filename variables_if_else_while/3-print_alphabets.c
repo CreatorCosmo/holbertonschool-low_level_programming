@@ -7,14 +7,16 @@
 
 int main(void)
 {
-char i;
+char e, i;
 
 
-for (i = 'a'; i <= 'z'; i++)
-	printf("%c", i);
+for (e = 'a'; e <= 'z'; e++)
+putchar(e);
 
 for (i = 'A'; i <= 'Z'; i++)
-printf("%c", i);
+putchar(i);
+
+putchar('\n');
 
 return (0);
 }
