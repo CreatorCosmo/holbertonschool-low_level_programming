@@ -1,5 +1,5 @@
 #include "main.h"
-/** 
+/**
 * main - Entry Point
 * Description: 'prints _putchar'
 * Return: Always 0 (Sucess)
