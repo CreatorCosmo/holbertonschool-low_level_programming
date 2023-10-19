@@ -2,7 +2,8 @@
 
 /**
 * _islower - Scans for lowercase characters
-* Return 1 for lowercase or 0 if else
+* Return: 1 for lowercase or 0 if else
+* @c: The character to be verified
 */
 
 int _islower(int c)
